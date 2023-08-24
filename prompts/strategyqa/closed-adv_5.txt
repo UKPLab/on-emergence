@@ -1,0 +1,20 @@
+QUESTION: Is Gandalf hypothetically a formidable foe for Charmed's Barbas?
+OPTIONS: (a) "Yes", (b) "No"
+ANSWER: (b)
+
+QUESTION: Are Naruhito's ancestors the focus of Romance of the Three Kingdoms?
+OPTIONS: (a) "Yes", (b) "No"
+ANSWER: (b)
+
+QUESTION: Is coal needed to practice parachuting?
+OPTIONS: (a) "Yes", (b) "No"
+ANSWER: (a)
+
+QUESTION: Was the British car, the Mini, the first car manufactured?
+OPTIONS: (a) "Yes", (b) "No"
+ANSWER: (b)
+
+QUESTION: Does the land in close proximity to beaver dams suffer?
+OPTIONS: (a) "Yes", (b) "No"
+ANSWER: (a)
+

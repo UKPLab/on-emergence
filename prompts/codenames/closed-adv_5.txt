@@ -1,0 +1,20 @@
+QUESTION: Try to identify the 2 words best associated with the word E.T. from the following list: limousine, model, watch, boom, block, robin, fish, scale, new york, day, capital, kangaroo, heart, spine, diamond, head, stream, fire, alien, church, jet, cloak. Give your answer in alphabetical order.
+OPTIONS: (a) "fish, cloak", (b) "alien, cloak", (c) "jet, cloak"
+ANSWER: (b)
+
+QUESTION: Try to identify the 2 words best associated with the word CRYSTAL from the following list: page, anchor, drum, sack, pacific, shoulder, mark, glacier, sugar, gear, tunnel, book. Give your answer in alphabetical order.
+OPTIONS: (a) "tunnel, book", (b) "glacier, sugar", (c) "tunnel, glacier"
+ANSWER: (b)
+
+QUESTION: Try to identify the 1 word best associated with the word MYTHOLOGY from the following list: boot, wave, centaur, calf, antarctica, slip, helicopter, vet. Give your answer in alphabetical order.
+OPTIONS: (a) "centaur", (b) "antarctica", (c) "calf"
+ANSWER: (a)
+
+QUESTION: Try to identify the 2 words best associated with the word HORSES from the following list: team, big ben, bubble, pizza, kung fu, battle, sled, rat, cane, patient, yellowstone, step, onion, glasses, blind, bulb, storm, ranch, spoon, desk, violet, mummy, apron, fuel, saddle. Give your answer in alphabetical order.
+OPTIONS: (a) "step, big ben", (b) "ranch, saddle", (c) "step, yellowstone"
+ANSWER: (b)
+
+QUESTION: Try to identify the 2 words best associated with the word GALILEO from the following list: battery, calf, kangaroo, spell, ruler, jack, australia, jupiter, lock, pilot, centaur, dragon, table, jam. Give your answer in alphabetical order.
+OPTIONS: (a) "jupiter, ruler", (b) "pilot, calf", (c) "pilot, centaur"
+ANSWER: (a)
+

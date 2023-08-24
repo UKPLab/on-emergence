@@ -1,0 +1,20 @@
+QUESTION: Why do people want to keep working?
+OPTIONS: (a) "frustration", (b) "make money", (c) "boredom", (d) "being paid", (e) "blisters"
+ANSWER: (d)
+
+QUESTION: Where would normally find two eyes?
+OPTIONS: (a) "someones face", (b) "faces", (c) "person's head", (d) "potato"
+ANSWER: (c)
+
+QUESTION: What might you feel after doing housework for hours?
+OPTIONS: (a) "anger", (b) "not boredom", (c) "stress", (d) "boredom", (e) "anxiety"
+ANSWER: (c)
+
+QUESTION: Joe did something very bad and he was worried that The People would try punishing him.  What type of punishment might be be worried about?
+OPTIONS: (a) "train", (b) "hatred", (c) "get angry", (d) "going to jail", (e) "public outrage"
+ANSWER: (d)
+
+QUESTION: The comforter was used constantly and treaded upon by everyone, where should it be placed?
+OPTIONS: (a) "garbage", (b) "linen closet", (c) "bedroom", (d) "washing machine", (e) "livingroom"
+ANSWER: (d)
+

@@ -1,0 +1,10 @@
+The blue book is to the right of the yellow book. The orange book is the second from the left. The correct answer is "The blue book is the rightmost".
+
+The brown book is to the left of the orange book. The green book is to the left of the brown book. The correct answer is "The orange book is the rightmost".
+
+The mangoes are less expensive than the peaches. The apples are less expensive than the mangoes. The correct answer is "The peaches are the most expensive".
+
+Dan finished above Amy. Amy finished above Mel. The correct answer is "Mel finished last".
+
+The minivan is newer than the sedan. The minivan is older than the bus. The correct answer is "The minivan is the second-newest".
+

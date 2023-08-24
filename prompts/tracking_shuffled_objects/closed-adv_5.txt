@@ -1,0 +1,20 @@
+QUESTION: Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Karl, Bob is dancing with Rodrigo, and Claire is dancing with Patrick. Throughout the song, the dancers often trade partners. First, Claire and Alice switch partners. Then, Bob and Alice switch partners. Finally, Alice and Claire switch partners. At the end of the dance, Claire is dancing with?
+OPTIONS: (a) "Karl", (b) "Rodrigo", (c) "Patrick"
+ANSWER: (b)
+
+QUESTION: Alice, Bob, and Claire are dancers at a square dance. At the start of a song, they each have a partner: Alice is dancing with Sam, Bob is dancing with Karl, and Claire is dancing with Helga. Throughout the song, the dancers often trade partners. First, Alice and Claire switch partners. Then, Alice and Bob switch partners. Finally, Claire and Bob switch partners. At the end of the dance, Alice is dancing with?
+OPTIONS: (a) "Sam", (b) "Karl", (c) "Helga"
+ANSWER: (b)
+
+QUESTION: Alice, Bob, and Claire are holding a white elephant gift exchange. At the start of the event, they are each holding a present of a different color: Alice has a blue present, Bob has a black ball, and Claire has a green present. As the event progresses, pairs of people swap gifts. First, Alice and Bob swap their gifts. Then, Alice and Claire swap their gifts. Finally, Claire and Bob swap their gifts. At the end of the event, Claire has the?
+OPTIONS: (a) "blue present", (b) "black ball", (c) "green present"
+ANSWER: (a)
+
+QUESTION: Alice, Bob, and Claire are playing a game. At the start of the game, they are each holding a ball: Alice has a pink ball, Bob has a orange ball, and Claire has a white ball. As the game progresses, pairs of players trade balls. First, Bob and Claire swap balls. Then, Claire and Alice swap balls. Finally, Alice and Bob swap balls. At the end of the game, Bob has the?
+OPTIONS: (a) "pink ball", (b) "orange ball", (c) "white ball"
+ANSWER: (b)
+
+QUESTION: Alice, Bob, and Claire are friends and avid readers who occasionally trade books. At the start of the semester, they each buy one new book: Alice gets The Odyssey, Bob gets The Fellowship of the Ring, and Claire gets Hound of the Baskervilles. As the semester proceeds, they start trading around the new books. First, Bob and Alice swap books. Then, Claire and Bob swap books. Finally, Alice and Claire swap books. At the end of the semester, Bob has?
+OPTIONS: (a) "The Odyssey", (b) "The Fellowship of the Ring", (c) "Hound of the Baskervilles"
+ANSWER: (c)
+

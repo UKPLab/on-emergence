@@ -1,0 +1,20 @@
+QUESTION: Kisses are the flowers of affection. What type of figurative language does this represent?
+OPTIONS: (a) "Simile", (b) "Metaphor", (c) "Personification", (d) "Apostrophe", (e) "Oxymoron", (f) "Hyperbole", (g) "Pun", (h) "Euphemism", (i) "Alliteration", (j) "Onomatopoeia"
+ANSWER: (b)
+
+QUESTION: Sara exclaimed that the ice cream she purchased at the shop was awfully good. What type of figurative language does this represent?
+OPTIONS: (a) "Simile", (b) "Metaphor", (c) "Personification", (d) "Apostrophe", (e) "Oxymoron", (f) "Hyperbole", (g) "Pun", (h) "Euphemism", (i) "Alliteration", (j) "Onomatopoeia"
+ANSWER: (e)
+
+QUESTION: Lightning danced across the sky. What type of figurative language does this represent?
+OPTIONS: (a) "Simile", (b) "Metaphor", (c) "Personification", (d) "Apostrophe", (e) "Oxymoron", (f) "Hyperbole", (g) "Pun", (h) "Euphemism", (i) "Alliteration", (j) "Onomatopoeia"
+ANSWER: (c)
+
+QUESTION: Geometry is so pointless. What type of figurative language does this represent?
+OPTIONS: (a) "Simile", (b) "Metaphor", (c) "Personification", (d) "Apostrophe", (e) "Oxymoron", (f) "Hyperbole", (g) "Pun", (h) "Euphemism", (i) "Alliteration", (j) "Onomatopoeia"
+ANSWER: (g)
+
+QUESTION: After running a marathon, a marathoner eats like a horse. What type of figurative language does this represent?
+OPTIONS: (a) "Simile", (b) "Metaphor", (c) "Personification", (d) "Apostrophe", (e) "Oxymoron", (f) "Hyperbole", (g) "Pun", (h) "Euphemism", (i) "Alliteration", (j) "Onomatopoeia"
+ANSWER: (a)
+

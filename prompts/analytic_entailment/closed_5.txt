@@ -1,0 +1,10 @@
+Beth owns a two-story house. So, she owns a house. The possible answers are "entailment", "no-entailment", but the correct answer is "entailment".
+
+John has a coffee table. Therefore John drinks coffee. The possible answers are "entailment", "no-entailment", but the correct answer is "no-entailment".
+
+Harry is wearing a suit. So, Harry isn't naked. The possible answers are "entailment", "no-entailment", but the correct answer is "entailment".
+
+Sarah has a pet. So Sarah has a dog. The possible answers are "entailment", "no-entailment", but the correct answer is "no-entailment".
+
+Ann is wearing a dress. So, Ann is not wearing pants. The possible answers are "entailment", "no-entailment", but the correct answer is "no-entailment".
+

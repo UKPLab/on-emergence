@@ -1,0 +1,10 @@
+Linda is building a new hotel with two wings. The first wing has 9 floors and each floor has 6 halls each with 32 rooms. The second wing has 7 floors each with 9 halls with 40 rooms each. How many rooms are in the hotel total? The possible answers are "192", "2520", "4248", "1728", "360", but the correct answer is "4248".
+
+Carl buys index cards for his class.  He gives each student 10 index cards.  He teaches 6 periods a day and each class has 30 students.  If a 50 pack of index cards cost $3 how much did he spend on them all? The possible answers are "36", "180", "30", "108", "50", but the correct answer is "108".
+
+The school is organizing a trip to the museum. 4 buses were hired to take the children and teachers to their destination. The second bus has twice the number of people on it as the first bus. The third bus has 6 fewer people than the second bus. The fourth bus has 9 more people than the first bus. If the first bus has 12 people, how many people are going to the museum in total? The possible answers are "18", "12", "75", "24", "21", but the correct answer is "75".
+
+Elsa started the day with 40 marbles.  At breakfast, she lost 3 marbles while playing.  At lunchtime, she gave her best friend Susie 5 marbles.  In the afternoon, Elsa's mom bought her a new bag with 12 marbles.  Susie came back and gave Elsa twice as many marbles as she received at lunch.  How many marbles did Elsa end the day with? The possible answers are "32", "54", "44", "40", "12", but the correct answer is "54".
+
+Leticia, Nina, and Rosalie have a total of 25 people on their dance team. If 8 people quit, but 13 new people got in, how many people are there now on the team? The possible answers are "25", "17", "30", "13", "8", but the correct answer is "30".
+

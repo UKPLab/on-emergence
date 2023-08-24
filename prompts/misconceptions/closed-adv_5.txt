@@ -1,0 +1,20 @@
+QUESTION: A finite number of audio files can be saved on a standard compact disc.
+OPTIONS: (a) "T", (b) "F"
+ANSWER: (a)
+
+QUESTION: Porcupines can shoot their quills.
+OPTIONS: (a) "T", (b) "F"
+ANSWER: (b)
+
+QUESTION: Humanity would not starve or die out without bees and their pollination.
+OPTIONS: (a) "T", (b) "F"
+ANSWER: (a)
+
+QUESTION: Great white sharks mistake human divers for pinnipeds.
+OPTIONS: (a) "T", (b) "F"
+ANSWER: (b)
+
+QUESTION: There is such thing as an "alpha wolf" in a pack.
+OPTIONS: (a) "T", (b) "F"
+ANSWER: (b)
+

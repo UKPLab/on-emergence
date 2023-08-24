@@ -1,0 +1,20 @@
+QUESTION: represent
+OPTIONS: (a) "potential", (b) "extent", (c) "expressing", (d) "fixtures", (e) "depressing"
+ANSWER: (b)
+
+QUESTION: michelle
+OPTIONS: (a) "hotel", (b) "checks", (c) "indicator", (d) "critic", (e) "dice"
+ANSWER: (a)
+
+QUESTION: conclude
+OPTIONS: (a) "conducting", (b) "confirmed", (c) "comedy", (d) "pursued", (e) "dawson"
+ANSWER: (d)
+
+QUESTION: hall
+OPTIONS: (a) "crystal", (b) "haul", (c) "dealt", (d) "belly", (e) "hand"
+ANSWER: (b)
+
+QUESTION: fit
+OPTIONS: (a) "fish", (b) "file", (c) "schmidt", (d) "equity", (e) "fill"
+ANSWER: (c)
+

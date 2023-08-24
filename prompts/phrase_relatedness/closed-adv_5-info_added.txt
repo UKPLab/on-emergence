@@ -1,0 +1,20 @@
+QUESTION: drug trafficking. What is a phrase related to this?
+OPTIONS: (a) "united states", (b) "cartel", (c) "law enforcement officials", (d) "colombian"
+ANSWER: (b)
+
+QUESTION: research laboratory. What is a phrase related to this?
+OPTIONS: (a) "job", (b) "court", (c) "science lab", (d) "storage"
+ANSWER: (c)
+
+QUESTION: Soft drink. What is a phrase related to this?
+OPTIONS: (a) "Small intestine", (b) "Desktop", (c) "Fast food", (d) "Outlet store"
+ANSWER: (c)
+
+QUESTION: Market trend. What is a phrase related to this?
+OPTIONS: (a) "Price", (b) "Vertical integration", (c) "Work", (d) "Salary"
+ANSWER: (a)
+
+QUESTION: Liquid. What is a phrase related to this?
+OPTIONS: (a) "Ice", (b) "Stone", (c) "Wood", (d) "Water"
+ANSWER: (d)
+

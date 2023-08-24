@@ -1,0 +1,50 @@
+QUESTION: In the following lines, the symbol -> represents a simple mathematical operation.
+451 + 499 -> 950
+164 + 181 -> 345
+468 + 909 -> 1377
+734 + 822 -> 1556
+943 + 977 -> 1920
+6 + 329 -> ?
+OPTIONS: (a) "340", (b) "334", (c) "335"
+ANSWER: (c)
+
+QUESTION: In the following lines, the symbol -> represents a simple mathematical operation.
+61 + 514 -> 575
+429 + 579 -> 1008
+536 + 690 -> 1226
+140 + 742 -> 882
+299 + 674 -> 973
+310 + 470 -> ?
+OPTIONS: (a) "786", (b) "780", (c) "776"
+ANSWER: (b)
+
+QUESTION: In the following lines, the symbol -> represents a simple mathematical operation.
+277 + 848 -> 1125
+721 + 168 -> 889
+329 + 649 -> 978
+440 + 390 -> 830
+495 + 380 -> 875
+305 + 741 -> ?
+OPTIONS: (a) "1046", (b) "1047", (c) "1041"
+ANSWER: (a)
+
+QUESTION: In the following lines, the symbol -> represents a simple mathematical operation.
+252 + 316 -> 568
+414 + 94 -> 508
+784 + 891 -> 1675
+23 + 627 -> 650
+662 + 849 -> 1511
+49 + 501 -> ?
+OPTIONS: (a) "550", (b) "549", (c) "551"
+ANSWER: (a)
+
+QUESTION: In the following lines, the symbol -> represents a simple mathematical operation.
+734 + 88 -> 822
+798 + 433 -> 1231
+787 + 747 -> 1534
+182 + 208 -> 390
+492 + 129 -> 621
+664 + 12 -> ?
+OPTIONS: (a) "677", (b) "673", (c) "676"
+ANSWER: (c)
+

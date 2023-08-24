@@ -1,0 +1,20 @@
+QUESTION: On a shelf, there are three books: an orange book, a yellow book, and a blue book. The blue book is to the right of the yellow book. The orange book is the second from the left.
+OPTIONS: (a) "The orange book is the rightmost", (b) "The yellow book is the rightmost", (c) "The blue book is the rightmost"
+ANSWER: (c)
+
+QUESTION: On a shelf, there are three books: a green book, a brown book, and an orange book. The brown book is to the left of the orange book. The green book is to the left of the brown book.
+OPTIONS: (a) "The green book is the rightmost", (b) "The brown book is the rightmost", (c) "The orange book is the rightmost"
+ANSWER: (c)
+
+QUESTION: A fruit stand sells three fruits: apples, peaches, and mangoes. The mangoes are less expensive than the peaches. The apples are less expensive than the mangoes.
+OPTIONS: (a) "The apples are the most expensive", (b) "The peaches are the most expensive", (c) "The mangoes are the most expensive"
+ANSWER: (b)
+
+QUESTION: In a golf tournament, there were three golfers: Dan, Mel, and Amy. Dan finished above Amy. Amy finished above Mel.
+OPTIONS: (a) "Dan finished last", (b) "Mel finished last", (c) "Amy finished last"
+ANSWER: (b)
+
+QUESTION: In an antique car show, there are three vehicles: a minivan, a bus, and a sedan. The minivan is newer than the sedan. The minivan is older than the bus.
+OPTIONS: (a) "The minivan is the second-newest", (b) "The bus is the second-newest", (c) "The sedan is the second-newest"
+ANSWER: (a)
+

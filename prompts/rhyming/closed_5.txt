@@ -1,0 +1,15 @@
+represent
+The possible answers are "potential", "extent", "expressing", "fixtures", "depressing", but the correct answer is "extent".
+
+michelle
+The possible answers are "hotel", "checks", "indicator", "critic", "dice", but the correct answer is "hotel".
+
+conclude
+The possible answers are "conducting", "confirmed", "comedy", "pursued", "dawson", but the correct answer is "pursued".
+
+hall
+The possible answers are "crystal", "haul", "dealt", "belly", "hand", but the correct answer is "haul".
+
+fit
+The possible answers are "fish", "file", "schmidt", "equity", "fill", but the correct answer is "schmidt".
+

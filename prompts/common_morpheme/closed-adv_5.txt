@@ -1,0 +1,20 @@
+QUESTION: Quel est le morphème commun parmi ces mots: cadence, cadavre, accident, parachute.
+OPTIONS: (a) "rythme", (b) "corps", (c) "sauter", (d) "tomber"
+ANSWER: (d)
+
+QUESTION: What is the common morpheme among these words: colleague, delegation, legitimate, loyal.
+OPTIONS: (a) "friend", (b) "law", (c) "true", (d) "pet"
+ANSWER: (b)
+
+QUESTION: Quel est le morphème commun parmi ces mots: opéra, ouvrage, coopération, opérationnel.
+OPTIONS: (a) "travailler", (b) "collaboration", (c) "musique", (d) "chirurgicale"
+ANSWER: (a)
+
+QUESTION: What is the common morpheme among these words: adapt, aptitude, attitude, aptonym.
+OPTIONS: (a) "mood", (b) "test", (c) "occupation", (d) "fit"
+ANSWER: (d)
+
+QUESTION: Quel est le morphème commun parmi ces mots: armoire, philharmonie, orteil, articulation.
+OPTIONS: (a) "garde-robe", (b) "musique", (c) "jointure", (d) "pied"
+ANSWER: (c)
+

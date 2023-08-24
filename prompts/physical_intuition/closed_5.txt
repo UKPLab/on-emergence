@@ -1,0 +1,10 @@
+I throw a ball towards the ground. Which direction does the ball initially move in? The possible answers are "Up", "Down", "Left", "Right", but the correct answer is "Down".
+
+A person is on a train going 100 km/h East and throws a ball 50 km/h to the West. At that moment there is a bird flying next to the train at 50 km/h to the East. How is the bird moving from the perspective of the ball? The possible answers are "0 km/h", "50 km/h east", "150 km/h east", "150 km/h west", but the correct answer is "0 km/h".
+
+The primary interaction between two individual protons separated by one micron is the The possible answers are "Electromagnetic force", "Gravitational force", "Weak force", "Strong force", but the correct answer is "Electromagnetic force".
+
+A decay process occurs via the production of a W boson. What interaction was involved? The possible answers are "Electromagnetic", "Strong", "Weak", "Elastic", but the correct answer is "Weak".
+
+The primary interaction between two neutrons in the same nucleus is the The possible answers are "Electromagnetic force", "Gravitational force", "Weak force", "Strong force", but the correct answer is "Strong force".
+

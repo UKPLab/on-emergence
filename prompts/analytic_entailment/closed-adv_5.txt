@@ -1,0 +1,20 @@
+QUESTION: Beth owns a two-story house. So, she owns a house.
+OPTIONS: (a) "entailment", (b) "no-entailment"
+ANSWER: (a)
+
+QUESTION: John has a coffee table. Therefore John drinks coffee.
+OPTIONS: (a) "entailment", (b) "no-entailment"
+ANSWER: (b)
+
+QUESTION: Harry is wearing a suit. So, Harry isn't naked.
+OPTIONS: (a) "entailment", (b) "no-entailment"
+ANSWER: (a)
+
+QUESTION: Sarah has a pet. So Sarah has a dog.
+OPTIONS: (a) "entailment", (b) "no-entailment"
+ANSWER: (b)
+
+QUESTION: Ann is wearing a dress. So, Ann is not wearing pants.
+OPTIONS: (a) "entailment", (b) "no-entailment"
+ANSWER: (b)
+

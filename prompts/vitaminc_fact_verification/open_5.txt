@@ -1,0 +1,20 @@
+2020 coronavirus pandemic in Bosnia and Herzegovina: As of 27 April 2020, in Bosnia and Herzegovina there were 1565 confirmed coronavirus cases, of which 706 were in Republika Srpska, 840 in the Federation of Bosnia and Herzegovina, and 19 in Brčko District.
+Claim: Bosnia and Herzegovina had less than 1550 coronavirus cases by April 26, 2020, including less than 700 in Republika Srpska, and less than 830 in the Federation of Bosnia and Herzegovina.
+The correct answer is "Neither".
+
+James Spader: He is best known for portraying eccentric characters in films such as the drama Sex, Lies, and Videotape -LRB- 1989 -RRB-, the action science fiction film Stargate -LRB- 1994 -RRB-, the controversial psychological thriller Crash -LRB- 1996 -RRB-, the erotic romance Secretary -LRB- 2002 -RRB-, and the blockbuster superhero film Avengers : Age of Ultron -LRB- 2015 -RRB-.
+Claim: James Spader has leading roles in TV series.
+The correct answer is "False".
+
+Bank of America: Bank of America provides its products and services through 1,600 retail financial centers, approximately 15,900 automated teller machines, call centers, and online and mobile banking platforms.
+Claim: 4,600 retail financial centers are part of Bank of America.
+The correct answer is "False".
+
+Joni Mitchell: A blunt critic of the music industry, Mitchell quit touring and released her 17th ( and reportedly last ) album of original songs in 2008.
+Claim: in 2007, Joni Mitchell released a record.
+The correct answer is "False".
+
+Heath Ledger: He is one of the most popular actors on Broadway, playing a lead role in many of the most successful Shakespeare plays in the last 20 years, but he has completely shunned acting in films.
+Claim: Heath Ledger acted in stage plays.
+The correct answer is "True".
+

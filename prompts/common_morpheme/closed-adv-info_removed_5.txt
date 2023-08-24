@@ -1,0 +1,20 @@
+QUESTION: cadence, cadavre, accident, parachute.
+OPTIONS: (a) "rythme", (b) "corps", (c) "sauter", (d) "tomber"
+ANSWER: (d)
+
+QUESTION: colleague, delegation, legitimate, loyal.
+OPTIONS: (a) "friend", (b) "law", (c) "true", (d) "pet"
+ANSWER: (b)
+
+QUESTION: opéra, ouvrage, coopération, opérationnel.
+OPTIONS: (a) "travailler", (b) "collaboration", (c) "musique", (d) "chirurgicale"
+ANSWER: (a)
+
+QUESTION: adapt, aptitude, attitude, aptonym.
+OPTIONS: (a) "mood", (b) "test", (c) "occupation", (d) "fit"
+ANSWER: (d)
+
+QUESTION: armoire, philharmonie, orteil, articulation.
+OPTIONS: (a) "garde-robe", (b) "musique", (c) "jointure", (d) "pied"
+ANSWER: (c)
+

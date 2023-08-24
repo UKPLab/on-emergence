@@ -1,0 +1,10 @@
+drug trafficking. The possible answers are "united states", "cartel", "law enforcement officials", "colombian", but the correct answer is "cartel".
+
+research laboratory. The possible answers are "job", "court", "science lab", "storage", but the correct answer is "science lab".
+
+Soft drink. The possible answers are "Small intestine", "Desktop", "Fast food", "Outlet store", but the correct answer is "Fast food".
+
+Market trend. The possible answers are "Price", "Vertical integration", "Work", "Salary", but the correct answer is "Price".
+
+Liquid. The possible answers are "Ice", "Stone", "Wood", "Water", but the correct answer is "Water".
+

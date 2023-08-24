@@ -1,0 +1,6 @@
+On a shelf, there are three books: an orange book, a yellow book, and a blue book. The blue book is to the right of the yellow book. The orange book is the second from the left. The possible answers are "The orange book is the rightmost", "The yellow book is the rightmost", "The blue book is the rightmost", but the correct answer is "The blue book is the rightmost".
+
+In a golf tournament, there were three golfers: Dan, Mel, and Amy. Dan finished above Amy. Amy finished above Mel. The possible answers are "Dan finished last", "Mel finished last", "Amy finished last", but the correct answer is "Mel finished last".
+
+In an antique car show, there are three vehicles: a minivan, a bus, and a sedan. The minivan is newer than the sedan. The minivan is older than the bus. The possible answers are "The minivan is the second-newest", "The bus is the second-newest", "The sedan is the second-newest", but the correct answer is "The minivan is the second-newest".
+

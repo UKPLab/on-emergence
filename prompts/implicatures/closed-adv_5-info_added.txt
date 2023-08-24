@@ -1,0 +1,20 @@
+QUESTION: Speaker 1: 'Have you seen them recently?' Speaker 2: 'I haven't seen them in ages.' What is the meaning of Speaker 2's response?
+OPTIONS: (a) "yes", (b) "no"
+ANSWER: (b)
+
+QUESTION: Speaker 1: 'You want answers?!' Speaker 2: 'I want the truth.' What is the meaning of Speaker 2's response?
+OPTIONS: (a) "yes", (b) "no"
+ANSWER: (a)
+
+QUESTION: Speaker 1: 'I am going to conduct my psychology experiment this Saturday. I would be having a handful. Would you help by writing the names of the participants?' Speaker 2: 'I have got some work on my own.' What is the meaning of Speaker 2's response?
+OPTIONS: (a) "yes", (b) "no"
+ANSWER: (b)
+
+QUESTION: Speaker 1: 'Do you think you will ever work at that company again?' Speaker 2: 'When pigs fly.' What is the meaning of Speaker 2's response?
+OPTIONS: (a) "yes", (b) "no"
+ANSWER: (b)
+
+QUESTION: Speaker 1: 'You mean I pretend I have a mom?' Speaker 2: 'You can do that, can't you?' What is the meaning of Speaker 2's response?
+OPTIONS: (a) "yes", (b) "no"
+ANSWER: (a)
+

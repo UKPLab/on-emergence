@@ -1,0 +1,20 @@
+QUESTION: Which word in the following sentence is a verb? I'd gralsillit onto the secure felisheret.
+OPTIONS: (a) "I'd", (b) "gralsillit", (c) "onto", (d) "the", (e) "tall", (f) "felisheret"
+ANSWER: (b)
+
+QUESTION: Which word in the following sentence is a noun? Gralliciously recarpilate the brooktoine.
+OPTIONS: (a) "Gralliciously", (b) "recarpilate", (c) "the", (d) "brooktoine"
+ANSWER: (d)
+
+QUESTION: Which word in the following sentence is an adverb? The helipioles defractated regillently for the broarkers.
+OPTIONS: (a) "The", (b) "helipioles", (c) "defractated", (d) "regillently", (e) "for", (f) "the", (g) "broarkers"
+ANSWER: (d)
+
+QUESTION: Which word in the following sentence is an adjective? Procaliff stefiliously held the brizzerous box.
+OPTIONS: (a) "Procaliff", (b) "stefiliously", (c) "held", (d) "the", (e) "brizzerous", (f) "box"
+ANSWER: (e)
+
+QUESTION: What is the grammatical object of the following sentence? Yuki inquisitively gerriantates the polderiot.
+OPTIONS: (a) "Yuki", (b) "inquisitively", (c) "gerriantates", (d) "the", (e) "polderiot"
+ANSWER: (e)
+

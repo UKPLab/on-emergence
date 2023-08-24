@@ -1,0 +1,20 @@
+QUESTION: Austin's family was celebrating their parents 50th anniversary during dinner at a new restaurant. What would Austin's family do next?
+OPTIONS: (a) "Refuse to eat dinner with the family", (b) "Eat dinner at the restaurant", (c) "Happy"
+ANSWER: (b)
+
+QUESTION: After they picked a hiking trail to take together, Sydney met Skylar near the canyon edge. What does Sydney need to do before this?
+OPTIONS: (a) "Pack for the hike", (b) "Greet each other", (c) "Walk along the rim"
+ANSWER: (a)
+
+QUESTION: Tracy gave video games to my friend. They knew they were quality titles they would enjoy. What will Tracy want to do next?
+OPTIONS: (a) "Give bad advice", (b) "Be generous", (c) "Give advice"
+ANSWER: (b)
+
+QUESTION: Quinn cried their eyes out and ate a whole carton of icecream over her breakup. What will Quinn want to do next?
+OPTIONS: (a) "Get back together with her boyrfrined", (b) "Purchase ice cream", (c) "Keep crying"
+ANSWER: (c)
+
+QUESTION: Jesse had made plans with Cameron to go to the dance, but instead stood Cameron up. What will Cameron want to do next?
+OPTIONS: (a) "Not go to the dance anymore", (b) "Move away from the area", (c) "Tell Jesse how they feel"
+ANSWER: (c)
+

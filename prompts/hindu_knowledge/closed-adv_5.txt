@@ -1,0 +1,20 @@
+QUESTION: Which of the following Hindu deities is associated with wind?
+OPTIONS: (a) "Agni", (b) "Vayu", (c) "Varuna", (d) "Indra"
+ANSWER: (b)
+
+QUESTION: Which syllable is commonly used at the beginning and end of Hindu chants and texts?
+OPTIONS: (a) "Ma", (b) "Mo", (c) "Om", (d) "Na"
+ANSWER: (c)
+
+QUESTION: Which Hindu sage is known as the author of the Mahabharata?
+OPTIONS: (a) "Valmiki", (b) "Vyasa", (c) "Vashistha", (d) "Vishvamitra"
+ANSWER: (b)
+
+QUESTION: Which of the following is the Hindu deity associated with wind?
+OPTIONS: (a) "Vayu", (b) "Agni", (c) "Varuna", (d) "Surya"
+ANSWER: (a)
+
+QUESTION: In a Hindu legend, lord Ganesha's vahana is an animal of what form?
+OPTIONS: (a) "Snake", (b) "Lion", (c) "Elephant", (d) "Mouse"
+ANSWER: (d)
+
