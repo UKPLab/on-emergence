@@ -12,7 +12,7 @@ See [evaluation_scores](https://github.com/UKPLab/on-emergence/blob/main/evaluat
 ## output files
 All of the output files associated to our experiments can be found [here](https://tudatalib.ulb.tu-darmstadt.de/handle/tudatalib/3931). We name each file in a *date_time* fashion (e.g., ```results-20230524_123238.json```), which is also the ```run_id``` of an experiment that can be found in [evaluation_scores](https://github.com/UKPLab/on-emergence/blob/main/evaluation_scores.csv).
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+## license [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
