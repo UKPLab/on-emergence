@@ -18,13 +18,25 @@ All of the output files associated to our experiments can be found [here](https:
 Please use the following citation:
 
 ```
-@misc{lu2023emergent,
-      title={Are Emergent Abilities in Large Language Models just In-Context Learning?}, 
-      author={Sheng Lu and Irina Bigoulaeva and Rachneet Sachdeva and Harish Tayyar Madabushi and Iryna Gurevych},
-      year={2023},
-      eprint={2309.01809},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{lu-etal-2024-emergent,
+    title = "Are Emergent Abilities in Large Language Models just In-Context Learning?",
+    author = "Lu, Sheng  and
+      Bigoulaeva, Irina  and
+      Sachdeva, Rachneet  and
+      Tayyar Madabushi, Harish  and
+      Gurevych, Iryna",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.279/",
+    doi = "10.18653/v1/2024.acl-long.279",
+    pages = "5098--5139",
+    abstract = "Large language models, comprising billions of parameters and pre-trained on extensive web-scale corpora, have been claimed to acquire certain capabilities without having been specifically trained on them. These capabilities, referred to as {\textquotedblleft}emergent abilities,{\textquotedblright} have been a driving force in discussions regarding the potentials and risks of language models. A key challenge in evaluating emergent abilities is that they are confounded by model competencies that arise through alternative prompting techniques, including in-context learning, which is the ability of models to complete a task based on a few examples. We present a novel theory that explains emergent abilities, taking into account their potential confounding factors, and rigorously substantiate this theory through over 1000 experiments. Our findings suggest that purported emergent abilities are not truly emergent, but result from a combination of in-context learning, model memory, and linguistic knowledge. Our work is a foundational step in explaining language model performance, providing a template for their efficient use and clarifying the paradox of their ability to excel in some instances while faltering in others. Thus, we demonstrate that their capabilities should not be overestimated."
 }
 ```
 
